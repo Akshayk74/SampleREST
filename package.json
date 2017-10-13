@@ -1,0 +1,11 @@
+{
+  "name": "alexa-rest-app",
+  "description": "Alexa Rest service hosting in Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.9.8"
+  }
+}
